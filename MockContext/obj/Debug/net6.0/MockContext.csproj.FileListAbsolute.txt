@@ -1,0 +1,60 @@
+L:\שנה ב\משרד החינוך\אבא שאול יעלי\C#\מתקדם\המו סירוקה\ש.ב\פרויקט\CheapestBasket\MockContext\bin\Debug\net6.0\MockContext.deps.json
+L:\שנה ב\משרד החינוך\אבא שאול יעלי\C#\מתקדם\המו סירוקה\ש.ב\פרויקט\CheapestBasket\MockContext\bin\Debug\net6.0\MockContext.dll
+L:\שנה ב\משרד החינוך\אבא שאול יעלי\C#\מתקדם\המו סירוקה\ש.ב\פרויקט\CheapestBasket\MockContext\bin\Debug\net6.0\MockContext.pdb
+L:\שנה ב\משרד החינוך\אבא שאול יעלי\C#\מתקדם\המו סירוקה\ש.ב\פרויקט\CheapestBasket\MockContext\obj\Debug\net6.0\MockContext.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\אבא שאול יעלי\C#\מתקדם\המו סירוקה\ש.ב\פרויקט\CheapestBasket\MockContext\obj\Debug\net6.0\MockContext.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\אבא שאול יעלי\C#\מתקדם\המו סירוקה\ש.ב\פרויקט\CheapestBasket\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\אבא שאול יעלי\C#\מתקדם\המו סירוקה\ש.ב\פרויקט\CheapestBasket\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\אבא שאול יעלי\C#\מתקדם\המו סירוקה\ש.ב\פרויקט\CheapestBasket\MockContext\obj\Debug\net6.0\MockContext.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\אבא שאול יעלי\C#\מתקדם\המו סירוקה\ש.ב\פרויקט\CheapestBasket\MockContext\obj\Debug\net6.0\MockContext.dll
+L:\שנה ב\משרד החינוך\אבא שאול יעלי\C#\מתקדם\המו סירוקה\ש.ב\פרויקט\CheapestBasket\MockContext\obj\Debug\net6.0\refint\MockContext.dll
+L:\שנה ב\משרד החינוך\אבא שאול יעלי\C#\מתקדם\המו סירוקה\ש.ב\פרויקט\CheapestBasket\MockContext\obj\Debug\net6.0\MockContext.pdb
+L:\שנה ב\משרד החינוך\אבא שאול יעלי\C#\מתקדם\המו סירוקה\ש.ב\פרויקט\CheapestBasket\MockContext\obj\Debug\net6.0\ref\MockContext.dll
+E:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\MockContext\bin\Debug\net6.0\MockContext.deps.json
+E:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\MockContext\bin\Debug\net6.0\MockContext.dll
+E:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\MockContext\bin\Debug\net6.0\MockContext.pdb
+E:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\MockContext\obj\Debug\net6.0\MockContext.csproj.AssemblyReference.cache
+E:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\MockContext\obj\Debug\net6.0\MockContext.GeneratedMSBuildEditorConfig.editorconfig
+E:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfoInputs.cache
+E:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfo.cs
+E:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\MockContext\obj\Debug\net6.0\MockContext.csproj.CoreCompileInputs.cache
+E:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\MockContext\obj\Debug\net6.0\MockContext.dll
+E:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\MockContext\obj\Debug\net6.0\refint\MockContext.dll
+E:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\MockContext\obj\Debug\net6.0\MockContext.pdb
+E:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\MockContext\obj\Debug\net6.0\ref\MockContext.dll
+E:\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\MockContext\bin\Debug\net6.0\MockContext.deps.json
+E:\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\MockContext\bin\Debug\net6.0\MockContext.dll
+E:\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\MockContext\bin\Debug\net6.0\MockContext.pdb
+E:\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\MockContext\obj\Debug\net6.0\MockContext.csproj.AssemblyReference.cache
+E:\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\MockContext\obj\Debug\net6.0\MockContext.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfoInputs.cache
+E:\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfo.cs
+E:\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\MockContext\obj\Debug\net6.0\MockContext.csproj.CoreCompileInputs.cache
+E:\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\MockContext\obj\Debug\net6.0\MockContext.dll
+E:\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\MockContext\obj\Debug\net6.0\refint\MockContext.dll
+E:\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\MockContext\obj\Debug\net6.0\MockContext.pdb
+E:\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\MockContext\obj\Debug\net6.0\ref\MockContext.dll
+D:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\MockContext\bin\Debug\net6.0\MockContext.deps.json
+D:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\MockContext\bin\Debug\net6.0\MockContext.dll
+D:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\MockContext\bin\Debug\net6.0\MockContext.pdb
+D:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\MockContext\obj\Debug\net6.0\MockContext.csproj.AssemblyReference.cache
+D:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\MockContext\obj\Debug\net6.0\MockContext.GeneratedMSBuildEditorConfig.editorconfig
+D:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfoInputs.cache
+D:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfo.cs
+D:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\MockContext\obj\Debug\net6.0\MockContext.csproj.CoreCompileInputs.cache
+D:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\MockContext\obj\Debug\net6.0\MockContext.dll
+D:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\MockContext\obj\Debug\net6.0\refint\MockContext.dll
+D:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\MockContext\obj\Debug\net6.0\MockContext.pdb
+D:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\MockContext\obj\Debug\net6.0\ref\MockContext.dll
+F:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\MockContext\bin\Debug\net6.0\MockContext.deps.json
+F:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\MockContext\bin\Debug\net6.0\MockContext.dll
+F:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\MockContext\bin\Debug\net6.0\MockContext.pdb
+F:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\MockContext\obj\Debug\net6.0\MockContext.csproj.AssemblyReference.cache
+F:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\MockContext\obj\Debug\net6.0\MockContext.GeneratedMSBuildEditorConfig.editorconfig
+F:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfoInputs.cache
+F:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\MockContext\obj\Debug\net6.0\MockContext.AssemblyInfo.cs
+F:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\MockContext\obj\Debug\net6.0\MockContext.csproj.CoreCompileInputs.cache
+F:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\MockContext\obj\Debug\net6.0\MockContext.dll
+F:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\MockContext\obj\Debug\net6.0\refint\MockContext.dll
+F:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\MockContext\obj\Debug\net6.0\MockContext.pdb
+F:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\MockContext\obj\Debug\net6.0\ref\MockContext.dll

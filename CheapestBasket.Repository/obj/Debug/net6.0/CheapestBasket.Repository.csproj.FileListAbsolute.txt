@@ -1,0 +1,72 @@
+L:\שנה ב\משרד החינוך\אבא שאול יעלי\C#\מתקדם\המו סירוקה\ש.ב\פרויקט\CheapestBasket\CheapestBasket.Repository\bin\Debug\net6.0\CheapestBasket.Repository.deps.json
+L:\שנה ב\משרד החינוך\אבא שאול יעלי\C#\מתקדם\המו סירוקה\ש.ב\פרויקט\CheapestBasket\CheapestBasket.Repository\bin\Debug\net6.0\CheapestBasket.Repository.dll
+L:\שנה ב\משרד החינוך\אבא שאול יעלי\C#\מתקדם\המו סירוקה\ש.ב\פרויקט\CheapestBasket\CheapestBasket.Repository\bin\Debug\net6.0\CheapestBasket.Repository.pdb
+L:\שנה ב\משרד החינוך\אבא שאול יעלי\C#\מתקדם\המו סירוקה\ש.ב\פרויקט\CheapestBasket\CheapestBasket.Repository\bin\Debug\net6.0\MockContext.dll
+L:\שנה ב\משרד החינוך\אבא שאול יעלי\C#\מתקדם\המו סירוקה\ש.ב\פרויקט\CheapestBasket\CheapestBasket.Repository\bin\Debug\net6.0\MockContext.pdb
+L:\שנה ב\משרד החינוך\אבא שאול יעלי\C#\מתקדם\המו סירוקה\ש.ב\פרויקט\CheapestBasket\CheapestBasket.Repository\obj\Debug\net6.0\CheapestBasket.Repository.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\אבא שאול יעלי\C#\מתקדם\המו סירוקה\ש.ב\פרויקט\CheapestBasket\CheapestBasket.Repository\obj\Debug\net6.0\CheapestBasket.Repository.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\אבא שאול יעלי\C#\מתקדם\המו סירוקה\ש.ב\פרויקט\CheapestBasket\CheapestBasket.Repository\obj\Debug\net6.0\CheapestBasket.Repository.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\אבא שאול יעלי\C#\מתקדם\המו סירוקה\ש.ב\פרויקט\CheapestBasket\CheapestBasket.Repository\obj\Debug\net6.0\CheapestBasket.Repository.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\אבא שאול יעלי\C#\מתקדם\המו סירוקה\ש.ב\פרויקט\CheapestBasket\CheapestBasket.Repository\obj\Debug\net6.0\CheapestBasket.Repository.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\אבא שאול יעלי\C#\מתקדם\המו סירוקה\ש.ב\פרויקט\CheapestBasket\CheapestBasket.Repository\obj\Debug\net6.0\CheapestBasket.Repository.csproj.CopyComplete
+L:\שנה ב\משרד החינוך\אבא שאול יעלי\C#\מתקדם\המו סירוקה\ש.ב\פרויקט\CheapestBasket\CheapestBasket.Repository\obj\Debug\net6.0\CheapestBasket.Repository.dll
+L:\שנה ב\משרד החינוך\אבא שאול יעלי\C#\מתקדם\המו סירוקה\ש.ב\פרויקט\CheapestBasket\CheapestBasket.Repository\obj\Debug\net6.0\refint\CheapestBasket.Repository.dll
+L:\שנה ב\משרד החינוך\אבא שאול יעלי\C#\מתקדם\המו סירוקה\ש.ב\פרויקט\CheapestBasket\CheapestBasket.Repository\obj\Debug\net6.0\CheapestBasket.Repository.pdb
+L:\שנה ב\משרד החינוך\אבא שאול יעלי\C#\מתקדם\המו סירוקה\ש.ב\פרויקט\CheapestBasket\CheapestBasket.Repository\obj\Debug\net6.0\ref\CheapestBasket.Repository.dll
+E:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket.Repository\bin\Debug\net6.0\CheapestBasket.Repository.deps.json
+E:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket.Repository\bin\Debug\net6.0\CheapestBasket.Repository.dll
+E:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket.Repository\bin\Debug\net6.0\CheapestBasket.Repository.pdb
+E:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket.Repository\bin\Debug\net6.0\MockContext.dll
+E:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket.Repository\bin\Debug\net6.0\MockContext.pdb
+E:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket.Repository\obj\Debug\net6.0\CheapestBasket.Repository.csproj.AssemblyReference.cache
+E:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket.Repository\obj\Debug\net6.0\CheapestBasket.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket.Repository\obj\Debug\net6.0\CheapestBasket.Repository.AssemblyInfoInputs.cache
+E:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket.Repository\obj\Debug\net6.0\CheapestBasket.Repository.AssemblyInfo.cs
+E:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket.Repository\obj\Debug\net6.0\CheapestBasket.Repository.csproj.CoreCompileInputs.cache
+E:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket.Repository\obj\Debug\net6.0\CheapestBasket.Repository.csproj.CopyComplete
+E:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket.Repository\obj\Debug\net6.0\CheapestBasket.Repository.dll
+E:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket.Repository\obj\Debug\net6.0\refint\CheapestBasket.Repository.dll
+E:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket.Repository\obj\Debug\net6.0\CheapestBasket.Repository.pdb
+E:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket.Repository\obj\Debug\net6.0\ref\CheapestBasket.Repository.dll
+E:\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket.Repository\bin\Debug\net6.0\CheapestBasket.Repository.deps.json
+E:\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket.Repository\bin\Debug\net6.0\CheapestBasket.Repository.dll
+E:\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket.Repository\bin\Debug\net6.0\CheapestBasket.Repository.pdb
+E:\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket.Repository\bin\Debug\net6.0\MockContext.dll
+E:\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket.Repository\bin\Debug\net6.0\MockContext.pdb
+E:\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket.Repository\obj\Debug\net6.0\CheapestBasket.Repository.csproj.AssemblyReference.cache
+E:\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket.Repository\obj\Debug\net6.0\CheapestBasket.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket.Repository\obj\Debug\net6.0\CheapestBasket.Repository.AssemblyInfoInputs.cache
+E:\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket.Repository\obj\Debug\net6.0\CheapestBasket.Repository.AssemblyInfo.cs
+E:\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket.Repository\obj\Debug\net6.0\CheapestBasket.Repository.csproj.CoreCompileInputs.cache
+E:\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket.Repository\obj\Debug\net6.0\CheapestBasket.Repository.csproj.CopyComplete
+E:\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket.Repository\obj\Debug\net6.0\CheapestBasket.Repository.dll
+E:\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket.Repository\obj\Debug\net6.0\refint\CheapestBasket.Repository.dll
+E:\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket.Repository\obj\Debug\net6.0\CheapestBasket.Repository.pdb
+E:\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket.Repository\obj\Debug\net6.0\ref\CheapestBasket.Repository.dll
+D:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket.Repository\bin\Debug\net6.0\CheapestBasket.Repository.deps.json
+D:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket.Repository\bin\Debug\net6.0\CheapestBasket.Repository.dll
+D:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket.Repository\bin\Debug\net6.0\CheapestBasket.Repository.pdb
+D:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket.Repository\obj\Debug\net6.0\CheapestBasket.Repository.csproj.AssemblyReference.cache
+D:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket.Repository\obj\Debug\net6.0\CheapestBasket.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket.Repository\obj\Debug\net6.0\CheapestBasket.Repository.AssemblyInfoInputs.cache
+D:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket.Repository\obj\Debug\net6.0\CheapestBasket.Repository.AssemblyInfo.cs
+D:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket.Repository\obj\Debug\net6.0\CheapestBasket.Repository.csproj.CoreCompileInputs.cache
+D:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket.Repository\obj\Debug\net6.0\CheapestBasket.Repository.dll
+D:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket.Repository\obj\Debug\net6.0\refint\CheapestBasket.Repository.dll
+D:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket.Repository\obj\Debug\net6.0\CheapestBasket.Repository.pdb
+D:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket.Repository\obj\Debug\net6.0\ref\CheapestBasket.Repository.dll
+F:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket.Repository\bin\Debug\net6.0\CheapestBasket.Repository.deps.json
+F:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket.Repository\bin\Debug\net6.0\CheapestBasket.Repository.dll
+F:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket.Repository\bin\Debug\net6.0\CheapestBasket.Repository.pdb
+F:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket.Repository\bin\Debug\net6.0\MockContext.dll
+F:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket.Repository\bin\Debug\net6.0\MockContext.pdb
+F:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket.Repository\obj\Debug\net6.0\CheapestBasket.Repository.csproj.AssemblyReference.cache
+F:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket.Repository\obj\Debug\net6.0\CheapestBasket.Repository.GeneratedMSBuildEditorConfig.editorconfig
+F:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket.Repository\obj\Debug\net6.0\CheapestBasket.Repository.AssemblyInfoInputs.cache
+F:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket.Repository\obj\Debug\net6.0\CheapestBasket.Repository.AssemblyInfo.cs
+F:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket.Repository\obj\Debug\net6.0\CheapestBasket.Repository.csproj.CoreCompileInputs.cache
+F:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket.Repository\obj\Debug\net6.0\CheapestBasket.Repository.csproj.CopyComplete
+F:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket.Repository\obj\Debug\net6.0\CheapestBasket.Repository.dll
+F:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket.Repository\obj\Debug\net6.0\refint\CheapestBasket.Repository.dll
+F:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket.Repository\obj\Debug\net6.0\CheapestBasket.Repository.pdb
+F:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket.Repository\obj\Debug\net6.0\ref\CheapestBasket.Repository.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CheapestBasket.WebApi.props" />
+</Project>

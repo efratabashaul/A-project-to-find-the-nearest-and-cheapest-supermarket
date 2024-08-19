@@ -1,0 +1,228 @@
+L:\שנה ב\משרד החינוך\אבא שאול יעלי\C#\מתקדם\המו סירוקה\ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\appsettings.Development.json
+L:\שנה ב\משרד החינוך\אבא שאול יעלי\C#\מתקדם\המו סירוקה\ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\appsettings.json
+L:\שנה ב\משרד החינוך\אבא שאול יעלי\C#\מתקדם\המו סירוקה\ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\CheapestBasket.WebApi.exe
+L:\שנה ב\משרד החינוך\אבא שאול יעלי\C#\מתקדם\המו סירוקה\ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\CheapestBasket.WebApi.deps.json
+L:\שנה ב\משרד החינוך\אבא שאול יעלי\C#\מתקדם\המו סירוקה\ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\CheapestBasket.WebApi.runtimeconfig.json
+L:\שנה ב\משרד החינוך\אבא שאול יעלי\C#\מתקדם\המו סירוקה\ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\CheapestBasket.WebApi.dll
+L:\שנה ב\משרד החינוך\אבא שאול יעלי\C#\מתקדם\המו סירוקה\ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\CheapestBasket.WebApi.pdb
+L:\שנה ב\משרד החינוך\אבא שאול יעלי\C#\מתקדם\המו סירוקה\ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+L:\שנה ב\משרד החינוך\אבא שאול יעלי\C#\מתקדם\המו סירוקה\ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\Microsoft.OpenApi.dll
+L:\שנה ב\משרד החינוך\אבא שאול יעלי\C#\מתקדם\המו סירוקה\ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+L:\שנה ב\משרד החינוך\אבא שאול יעלי\C#\מתקדם\המו סירוקה\ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+L:\שנה ב\משרד החינוך\אבא שאול יעלי\C#\מתקדם\המו סירוקה\ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+L:\שנה ב\משרד החינוך\אבא שאול יעלי\C#\מתקדם\המו סירוקה\ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\CheapestBasket.Repository.dll
+L:\שנה ב\משרד החינוך\אבא שאול יעלי\C#\מתקדם\המו סירוקה\ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\CheapestBasket.Service.dll
+L:\שנה ב\משרד החינוך\אבא שאול יעלי\C#\מתקדם\המו סירוקה\ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\MockContext.dll
+L:\שנה ב\משרד החינוך\אבא שאול יעלי\C#\מתקדם\המו סירוקה\ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\CheapestBasket.Repository.pdb
+L:\שנה ב\משרד החינוך\אבא שאול יעלי\C#\מתקדם\המו סירוקה\ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\CheapestBasket.Service.pdb
+L:\שנה ב\משרד החינוך\אבא שאול יעלי\C#\מתקדם\המו סירוקה\ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\MockContext.pdb
+L:\שנה ב\משרד החינוך\אבא שאול יעלי\C#\מתקדם\המו סירוקה\ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\CheapestBasket.WebApi.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\אבא שאול יעלי\C#\מתקדם\המו סירוקה\ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\CheapestBasket.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\אבא שאול יעלי\C#\מתקדם\המו סירוקה\ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\CheapestBasket.WebApi.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\אבא שאול יעלי\C#\מתקדם\המו סירוקה\ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\CheapestBasket.WebApi.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\אבא שאול יעלי\C#\מתקדם\המו סירוקה\ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\CheapestBasket.WebApi.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\אבא שאול יעלי\C#\מתקדם\המו סירוקה\ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\CheapestBasket.WebApi.MvcApplicationPartsAssemblyInfo.cs
+L:\שנה ב\משרד החינוך\אבא שאול יעלי\C#\מתקדם\המו סירוקה\ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\CheapestBasket.WebApi.MvcApplicationPartsAssemblyInfo.cache
+L:\שנה ב\משרד החינוך\אבא שאול יעלי\C#\מתקדם\המו סירוקה\ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\staticwebassets.build.json
+L:\שנה ב\משרד החינוך\אבא שאול יעלי\C#\מתקדם\המו סירוקה\ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\staticwebassets.development.json
+L:\שנה ב\משרד החינוך\אבא שאול יעלי\C#\מתקדם\המו סירוקה\ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\scopedcss\bundle\CheapestBasket.WebApi.styles.css
+L:\שנה ב\משרד החינוך\אבא שאול יעלי\C#\מתקדם\המו סירוקה\ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\CheapestBasket.WebApi.csproj.CopyComplete
+L:\שנה ב\משרד החינוך\אבא שאול יעלי\C#\מתקדם\המו סירוקה\ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\CheapestBasket.WebApi.dll
+L:\שנה ב\משרד החינוך\אבא שאול יעלי\C#\מתקדם\המו סירוקה\ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\refint\CheapestBasket.WebApi.dll
+L:\שנה ב\משרד החינוך\אבא שאול יעלי\C#\מתקדם\המו סירוקה\ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\CheapestBasket.WebApi.pdb
+L:\שנה ב\משרד החינוך\אבא שאול יעלי\C#\מתקדם\המו סירוקה\ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\CheapestBasket.WebApi.genruntimeconfig.cache
+L:\שנה ב\משרד החינוך\אבא שאול יעלי\C#\מתקדם\המו סירוקה\ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\ref\CheapestBasket.WebApi.dll
+L:\שנה ב\משרד החינוך\אבא שאול יעלי\C#\מתקדם\המו סירוקה\ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+L:\שנה ב\משרד החינוך\אבא שאול יעלי\C#\מתקדם\המו סירוקה\ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\Newtonsoft.Json.dll
+L:\שנה ב\משרד החינוך\אבא שאול יעלי\C#\מתקדם\המו סירוקה\ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+L:\שנה ב\משרד החינוך\אבא שאול יעלי\C#\מתקדם\המו סירוקה\ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+L:\שנה ב\משרד החינוך\אבא שאול יעלי\C#\מתקדם\המו סירוקה\ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\AutoMapper.dll
+L:\שנה ב\משרד החינוך\אבא שאול יעלי\C#\מתקדם\המו סירוקה\ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+L:\שנה ב\משרד החינוך\אבא שאול יעלי\C#\מתקדם\המו סירוקה\ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\Common.dll
+L:\שנה ב\משרד החינוך\אבא שאול יעלי\C#\מתקדם\המו סירוקה\ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\Common.pdb
+E:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\appsettings.Development.json
+E:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\appsettings.json
+E:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\CheapestBasket.WebApi.exe
+E:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\CheapestBasket.WebApi.deps.json
+E:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\CheapestBasket.WebApi.runtimeconfig.json
+E:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\CheapestBasket.WebApi.dll
+E:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\CheapestBasket.WebApi.pdb
+E:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\AutoMapper.dll
+E:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+E:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+E:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\CheapestBasket.Repository.dll
+E:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\CheapestBasket.Service.dll
+E:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\Common.dll
+E:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\MockContext.dll
+E:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\CheapestBasket.Repository.pdb
+E:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\CheapestBasket.Service.pdb
+E:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\Common.pdb
+E:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\MockContext.pdb
+E:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\CheapestBasket.WebApi.csproj.AssemblyReference.cache
+E:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\CheapestBasket.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\CheapestBasket.WebApi.AssemblyInfoInputs.cache
+E:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\CheapestBasket.WebApi.AssemblyInfo.cs
+E:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\CheapestBasket.WebApi.csproj.CoreCompileInputs.cache
+E:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\CheapestBasket.WebApi.MvcApplicationPartsAssemblyInfo.cs
+E:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\CheapestBasket.WebApi.MvcApplicationPartsAssemblyInfo.cache
+E:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\staticwebassets\msbuild.CheapestBasket.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\staticwebassets\msbuild.build.CheapestBasket.WebApi.props
+E:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CheapestBasket.WebApi.props
+E:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CheapestBasket.WebApi.props
+E:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\staticwebassets.pack.json
+E:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\staticwebassets.build.json
+E:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\staticwebassets.development.json
+E:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\scopedcss\bundle\CheapestBasket.WebApi.styles.css
+E:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\CheapestBasket.WebApi.csproj.CopyComplete
+E:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\CheapestBasket.WebApi.dll
+E:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\refint\CheapestBasket.WebApi.dll
+E:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\CheapestBasket.WebApi.pdb
+E:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\CheapestBasket.WebApi.genruntimeconfig.cache
+E:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\ref\CheapestBasket.WebApi.dll
+E:\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\CheapestBasket.WebApi.csproj.AssemblyReference.cache
+E:\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\CheapestBasket.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\CheapestBasket.WebApi.AssemblyInfoInputs.cache
+E:\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\CheapestBasket.WebApi.AssemblyInfo.cs
+E:\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\CheapestBasket.WebApi.csproj.CoreCompileInputs.cache
+E:\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\CheapestBasket.WebApi.MvcApplicationPartsAssemblyInfo.cs
+E:\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\CheapestBasket.WebApi.MvcApplicationPartsAssemblyInfo.cache
+E:\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\CheapestBasket.WebApi.dll
+E:\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\refint\CheapestBasket.WebApi.dll
+E:\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\CheapestBasket.WebApi.pdb
+E:\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\appsettings.Development.json
+E:\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\appsettings.json
+E:\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\CheapestBasket.WebApi.exe
+E:\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\CheapestBasket.WebApi.deps.json
+E:\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\CheapestBasket.WebApi.runtimeconfig.json
+E:\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\CheapestBasket.WebApi.dll
+E:\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\CheapestBasket.WebApi.pdb
+E:\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\AutoMapper.dll
+E:\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+E:\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+E:\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\CheapestBasket.Repository.dll
+E:\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\CheapestBasket.Service.dll
+E:\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\Common.dll
+E:\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\MockContext.dll
+E:\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\CheapestBasket.Repository.pdb
+E:\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\CheapestBasket.Service.pdb
+E:\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\Common.pdb
+E:\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\MockContext.pdb
+E:\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\staticwebassets\msbuild.CheapestBasket.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\staticwebassets\msbuild.build.CheapestBasket.WebApi.props
+E:\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CheapestBasket.WebApi.props
+E:\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CheapestBasket.WebApi.props
+E:\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\staticwebassets.pack.json
+E:\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\staticwebassets.build.json
+E:\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\staticwebassets.development.json
+E:\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\scopedcss\bundle\CheapestBasket.WebApi.styles.css
+E:\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\CheapestBasket.WebApi.csproj.CopyComplete
+E:\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\CheapestBasket.WebApi.genruntimeconfig.cache
+E:\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\ref\CheapestBasket.WebApi.dll
+D:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\appsettings.Development.json
+D:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\appsettings.json
+D:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\CheapestBasket.WebApi.exe
+D:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\CheapestBasket.WebApi.deps.json
+D:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\CheapestBasket.WebApi.runtimeconfig.json
+D:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\CheapestBasket.WebApi.dll
+D:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\CheapestBasket.WebApi.pdb
+D:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\AutoMapper.dll
+D:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+D:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\CheapestBasket.Repository.dll
+D:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\CheapestBasket.Service.dll
+D:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\Common.dll
+D:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\CheapestBasket.Repository.pdb
+D:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\CheapestBasket.Service.pdb
+D:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\Common.pdb
+D:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\CheapestBasket.WebApi.csproj.AssemblyReference.cache
+D:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\CheapestBasket.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\CheapestBasket.WebApi.AssemblyInfoInputs.cache
+D:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\CheapestBasket.WebApi.AssemblyInfo.cs
+D:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\CheapestBasket.WebApi.csproj.CoreCompileInputs.cache
+D:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\CheapestBasket.WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\CheapestBasket.WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\staticwebassets\msbuild.CheapestBasket.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\staticwebassets\msbuild.build.CheapestBasket.WebApi.props
+D:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CheapestBasket.WebApi.props
+D:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CheapestBasket.WebApi.props
+D:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\staticwebassets.pack.json
+D:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\staticwebassets.build.json
+D:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\staticwebassets.development.json
+D:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\scopedcss\bundle\CheapestBasket.WebApi.styles.css
+D:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\CheapestBasket.WebApi.csproj.CopyComplete
+D:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\CheapestBasket.WebApi.dll
+D:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\refint\CheapestBasket.WebApi.dll
+D:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\CheapestBasket.WebApi.pdb
+D:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\CheapestBasket.WebApi.genruntimeconfig.cache
+D:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\ref\CheapestBasket.WebApi.dll
+F:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\appsettings.Development.json
+F:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\appsettings.json
+F:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\CheapestBasket.WebApi.exe
+F:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\CheapestBasket.WebApi.deps.json
+F:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\CheapestBasket.WebApi.runtimeconfig.json
+F:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\CheapestBasket.WebApi.dll
+F:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\CheapestBasket.WebApi.pdb
+F:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\AutoMapper.dll
+F:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+F:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+F:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+F:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\CheapestBasket.Repository.dll
+F:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\CheapestBasket.Service.dll
+F:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\Common.dll
+F:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\MockContext.dll
+F:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\CheapestBasket.Repository.pdb
+F:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\CheapestBasket.Service.pdb
+F:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\Common.pdb
+F:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\bin\Debug\net6.0\MockContext.pdb
+F:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\CheapestBasket.WebApi.csproj.AssemblyReference.cache
+F:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\CheapestBasket.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+F:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\CheapestBasket.WebApi.AssemblyInfoInputs.cache
+F:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\CheapestBasket.WebApi.AssemblyInfo.cs
+F:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\CheapestBasket.WebApi.csproj.CoreCompileInputs.cache
+F:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\CheapestBasket.WebApi.MvcApplicationPartsAssemblyInfo.cs
+F:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\CheapestBasket.WebApi.MvcApplicationPartsAssemblyInfo.cache
+F:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\staticwebassets\msbuild.CheapestBasket.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+F:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\staticwebassets\msbuild.build.CheapestBasket.WebApi.props
+F:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CheapestBasket.WebApi.props
+F:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CheapestBasket.WebApi.props
+F:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\staticwebassets.pack.json
+F:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\staticwebassets.build.json
+F:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\staticwebassets.development.json
+F:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\scopedcss\bundle\CheapestBasket.WebApi.styles.css
+F:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\CheapestBasket.WebApi.csproj.CopyComplete
+F:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\CheapestBasket.WebApi.dll
+F:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\refint\CheapestBasket.WebApi.dll
+F:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\CheapestBasket.WebApi.pdb
+F:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\CheapestBasket.WebApi.genruntimeconfig.cache
+F:\תכנות יד\C#\מתקדם\המו' סירוקה\.ש.ב\פרויקט\CheapestBasket\CheapestBasket\obj\Debug\net6.0\ref\CheapestBasket.WebApi.dll
